@@ -3,7 +3,6 @@
 - 👨‍💻 Studying c# and python
 - 🎓 I am in the third semester of college
 - ✅ Looking for intership
-- 😄 Pronouns: he
 
 - <div>
   <a href="https://github.com/Samuelgosilva">
