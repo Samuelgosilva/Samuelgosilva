@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello!+;I+am+Samuel+Gonçalves,+Developer.)](https://git.io/typing-svg)
 ##
-- 👨‍💻 Studying c# and python
+- 👨‍💻 Student
 - 🎓 I am in the third semester of college
 - ✅ Looking for intership
 
