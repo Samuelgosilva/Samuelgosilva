@@ -16,7 +16,7 @@
   <h1 align="center"> Languages </h1>
     
 <div>
-<img align="center" height="40" width="40" alt="css3-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="center" height="40" width="40" alt="css3-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
 <img align="center" height="40" width="40" alt="html5-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" height="40" width="40" alt="css3-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                 
