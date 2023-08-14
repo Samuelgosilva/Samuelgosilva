@@ -13,11 +13,12 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"> Languages </h1>
+  <h1 align="center"> Languages </h1>
     
 <div>
 <img align="center" height="40" width="40" alt="csharp-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" height="40" width="40" alt="python-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" height="40" width="40" alt="html5-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
                
  </div>
  
