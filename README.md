@@ -20,6 +20,10 @@
 <img align="center" height="40" width="40" alt="html5-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" height="40" width="40" alt="css3-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
 <img align="center" height="40" width="40" alt="react-icon"  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+<img align="center" height="40" width="40" alt="react-icon"  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          >
+
 
 
                 
