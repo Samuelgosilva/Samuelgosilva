@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello!+;I+am+Samuel+Gonçalves,+Developer.)](https://git.io/typing-svg)
 ##
-- 🎓 Desenvolvedor Python
+- 🎓 Dev Python || Java
 
 - <div>
   <a href="https://github.com/Samuelgosilva">
@@ -20,7 +20,10 @@
 <img align="center" height="40" width="40" alt="html5-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" height="40" width="40" alt="react-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="center" height="40" width="40" alt="react-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-          
+<img align="center" height="40" width="40" alt="react-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+                   
+            
+           
         
 
 
