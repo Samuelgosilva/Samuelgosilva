@@ -13,7 +13,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <h1 align="center"> Languages </h1>
+  <h1 align="center"> Tecnologies </h1>
     
 <div>
 <img align="center" height="40" width="40" alt="css3-icon" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
